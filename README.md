@@ -1,4 +1,9 @@
-### Hi there 👋
+ _                       _                                    _               _
+(_)   __ _   _ __ ___   | |_   _ __   _   _   _ __     __ _  | |__    _   _  (_)
+| |  / _` | | '_ ` _ \  | __| | '__| | | | | | '_ \   / _` | | '_ \  | | | | | |
+| | | (_| | | | | | | | | |_  | |    | |_| | | | | | | (_| | | |_) | | |_| | | |
+|_|  \__,_| |_| |_| |_|  \__| |_|     \__,_| |_| |_|  \__, | |_.__/   \__,_| |_|  is here...
+
 
 <!--
 **iamtrungbui/iamtrungbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
